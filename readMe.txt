@@ -1,4 +1,305 @@
 Cấp 1-8 vào bang trên 3 ngày có cống hiến = 0
+26-02-2023 21:32:28
+ID: 86756
+Tên: quybonmat
+Cấp: 1
+Tu vi: Hiển Thánh Viên Mãn
+Gia nhập: 2022-12-14, cách đây 74 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:32:34
+ID: 91156
+Tên: Dân Xứ Huế
+Cấp: 1
+Tu vi: Thông Thần Nhị Trọng
+Gia nhập: 2022-11-12, cách đây 106 ngày
+Cống hiến: 0
+Online: 87 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:32:38
+ID: 55317
+Tên: Tuhyu
+Cấp: 1
+Tu vi: Thông Thần Cửu Trọng
+Gia nhập: 2023-01-26, cách đây 31 ngày
+Cống hiến: 0
+Online: 32 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:32:42
+ID: 61635
+Tên: Vạn Kiếp Ma Tôn
+Cấp: 1
+Tu vi: Thông Thần Cửu Trọng
+Gia nhập: 2023-02-10, cách đây 16 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:32:48
+ID: 90306
+Tên: Nguyên Sơ Chủ Thần
+Cấp: 1
+Tu vi: Thông Thần Tam Trọng
+Gia nhập: 2023-01-24, cách đây 33 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:32:55
+ID: 86141
+Tên: Hận đời vô đối
+Cấp: 1
+Tu vi: Thông Thần Nhị Trọng
+Gia nhập: 2022-12-01, cách đây 87 ngày
+Cống hiến: 0
+Online: 9 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:32:59
+ID: 80765
+Tên: Đại Củ Cải
+Cấp: 1
+Tu vi: Đạo Tôn Hậu Kỳ
+Gia nhập: 2023-02-10, cách đây 16 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:04
+ID: 128763
+Tên: Phàm Nhân ;•
+Cấp: 1
+Tu vi: Thông Thần Nhất Trọng
+Gia nhập: 2023-02-14, cách đây 12 ngày
+Cống hiến: 0
+Online: 8 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:10
+ID: 78172
+Tên: hắc ám chi thần
+Cấp: 1
+Tu vi: Đạo Tôn Trung Kỳ
+Gia nhập: 2023-01-26, cách đây 31 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:14
+ID: 80310
+Tên: Thái Thần
+Cấp: 1
+Tu vi: Thông Thần Cửu Trọng
+Gia nhập: 2023-02-14, cách đây 12 ngày
+Cống hiến: 0
+Online: 12 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:19
+ID: 124372
+Tên: Vancap03
+Cấp: 1
+Tu vi: Thông Thần Nhất Trọng
+Gia nhập: 2023-01-16, cách đây 41 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:23
+ID: 124846
+Tên: nhanhgmail
+Cấp: 1
+Tu vi: Chân Đế Nhất Trọng
+Gia nhập: 2022-12-31, cách đây 57 ngày
+Cống hiến: 0
+Online: 56 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:28
+ID: 76169
+Tên: Thiên Đế Cửu Thiên
+Cấp: 1
+Tu vi: Đạo Tôn Hậu Kỳ
+Gia nhập: 2022-11-25, cách đây 93 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:32
+ID: 84395
+Tên: @/3/@
+Cấp: 1
+Tu vi: Thông Thần Tam Trọng
+Gia nhập: 2023-02-12, cách đây 14 ngày
+Cống hiến: 0
+Online: 15 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:38
+ID: 113356
+Tên: Đông Hào
+Cấp: 1
+Tu vi: Hiển Thánh Viên Mãn
+Gia nhập: 2022-11-05, cách đây 113 ngày
+Cống hiến: 0
+Online: 0 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:45
+ID: 113574
+Tên: Lý Kiếm Thiên
+Cấp: 1
+Tu vi: Thông Thần Nhất Trọng
+Gia nhập: 2022-11-11, cách đây 107 ngày
+Cống hiến: 0
+Online: 4 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:49
+ID: 113706
+Tên: ۶ʸᵍᵍᵈʳᵃˢⁱˡˡঔ
+Cấp: 1
+Tu vi: Đạo Tôn Trung Kỳ
+Gia nhập: 2022-10-10, cách đây 139 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:54
+ID: 97541
+Tên: ~ Mỹ Đỗ Toa ~
+Cấp: 1
+Tu vi: Hiển Thánh Viên Mãn
+Gia nhập: 2022-12-19, cách đây 69 ngày
+Cống hiến: 0
+Online: 72 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:33:58
+ID: 106213
+Tên: Trường Sinh Đảo
+Cấp: 1
+Tu vi: Chân Đế Nhị Trọng
+Gia nhập: 2022-12-27, cách đây 61 ngày
+Cống hiến: 0
+Online: 52 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:03
+ID: 104444
+Tên: Ma kha
+Cấp: 1
+Tu vi: Thông Thần Thất Trọng
+Gia nhập: 2023-02-07, cách đây 19 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:07
+ID: 21208
+Tên: Congthin
+Cấp: 1
+Tu vi: Đọc Đạo Đại Đế Trung Kỳ
+Gia nhập: 2022-11-19, cách đây 99 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:12
+ID: 112876
+Tên: BấtDiệtThànhChủ [ phân thân]
+Cấp: 1
+Tu vi: Hiển Thánh Nhất Trọng
+Gia nhập: 2023-02-09, cách đây 17 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:16
+ID: 96357
+Tên: Thiên Quỷ
+Cấp: 1
+Tu vi: Hiển Thánh Tứ Trọng
+Gia nhập: 2023-02-03, cách đây 23 ngày
+Cống hiến: 0
+Online: 24 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:21
+ID: 105908
+Tên: CronusXVI
+Cấp: 1
+Tu vi: Hiển Thánh Viên Mãn
+Gia nhập: 2022-10-14, cách đây 135 ngày
+Cống hiến: 0
+Online: 73 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:26
+ID: 117434
+Tên: Hoàng↔Thiên
+Cấp: 1
+Tu vi: Đạo Tôn Sơ Kỳ
+Gia nhập: 2023-01-20, cách đây 37 ngày
+Cống hiến: 0
+Online: 27 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:30
+ID: 48546
+Tên: ✞ঔৣ۝Ái✿Mị۝ঔৣ✞¹⁴
+Cấp: 1
+Tu vi: Đạo Tôn Hậu Kỳ
+Gia nhập: 2023-02-20, cách đây 6 ngày
+Cống hiến: 0
+Online: 24 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:35
+ID: 96338
+Tên: BGKhanh
+Cấp: 1
+Tu vi: Hiển Thánh Viên Mãn
+Gia nhập: 2023-02-12, cách đây 14 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:41
+ID: 96129
+Tên: Hoàng_Văn_Thanh
+Cấp: 1
+Tu vi: Thông Thần Lục Trọng
+Gia nhập: 2022-10-16, cách đây 133 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:45
+ID: 96039
+Tên: ThầyTu
+Cấp: 1
+Tu vi: Thông Thần Tam Trọng
+Gia nhập: 2022-12-07, cách đây 81 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+26-02-2023 21:34:51
+ID: 39034
+Tên: Beegnuttert
+Cấp: 1
+Tu vi: Đọc Đạo Đại Đế Hậu Kỳ
+Gia nhập: 2023-02-19, cách đây 7 ngày
+Cống hiến: 0
+Online: 1 ngày trước
+Tình trạng: Đã đuổi.
+
+
 
 Cấp 1-5 off trên 5 ngày
 ID: 22167|Tên: Bạch Long Minh Đế|Cấp: 4|Tu vi: Thông Thần Cửu Trọng|Gia nhập: 2022-07-22, cách đây 219 ngày|Cống hiến: 185|Online: 32 ngày trước
